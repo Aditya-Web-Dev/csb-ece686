@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "https://aditya-web-dev.github.io/csb-ece686/static/css/main.646e2cdf.chunk.css",
-    "main.js": "https://aditya-web-dev.github.io/csb-ece686/static/js/main.286b0282.chunk.js",
-    "main.js.map": "https://aditya-web-dev.github.io/csb-ece686/static/js/main.286b0282.chunk.js.map",
-    "runtime-main.js": "https://aditya-web-dev.github.io/csb-ece686/static/js/runtime-main.45a7e7d0.js",
-    "runtime-main.js.map": "https://aditya-web-dev.github.io/csb-ece686/static/js/runtime-main.45a7e7d0.js.map",
-    "static/js/2.51a3cf3b.chunk.js": "https://aditya-web-dev.github.io/csb-ece686/static/js/2.51a3cf3b.chunk.js",
-    "static/js/2.51a3cf3b.chunk.js.map": "https://aditya-web-dev.github.io/csb-ece686/static/js/2.51a3cf3b.chunk.js.map",
-    "index.html": "https://aditya-web-dev.github.io/csb-ece686/index.html",
-    "static/css/main.646e2cdf.chunk.css.map": "https://aditya-web-dev.github.io/csb-ece686/static/css/main.646e2cdf.chunk.css.map",
-    "static/js/2.51a3cf3b.chunk.js.LICENSE.txt": "https://aditya-web-dev.github.io/csb-ece686/static/js/2.51a3cf3b.chunk.js.LICENSE.txt"
+    "main.css": "https://.github.io/csb-ece686/static/css/main.d320bdea.chunk.css",
+    "main.js": "https://.github.io/csb-ece686/static/js/main.16c6dc2b.chunk.js",
+    "main.js.map": "https://.github.io/csb-ece686/static/js/main.16c6dc2b.chunk.js.map",
+    "runtime-main.js": "https://.github.io/csb-ece686/static/js/runtime-main.a202c509.js",
+    "runtime-main.js.map": "https://.github.io/csb-ece686/static/js/runtime-main.a202c509.js.map",
+    "static/js/2.51a3cf3b.chunk.js": "https://.github.io/csb-ece686/static/js/2.51a3cf3b.chunk.js",
+    "static/js/2.51a3cf3b.chunk.js.map": "https://.github.io/csb-ece686/static/js/2.51a3cf3b.chunk.js.map",
+    "index.html": "https://.github.io/csb-ece686/index.html",
+    "static/css/main.d320bdea.chunk.css.map": "https://.github.io/csb-ece686/static/css/main.d320bdea.chunk.css.map",
+    "static/js/2.51a3cf3b.chunk.js.LICENSE.txt": "https://.github.io/csb-ece686/static/js/2.51a3cf3b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.45a7e7d0.js",
+    "static/js/runtime-main.a202c509.js",
     "static/js/2.51a3cf3b.chunk.js",
-    "static/css/main.646e2cdf.chunk.css",
-    "static/js/main.286b0282.chunk.js"
+    "static/css/main.d320bdea.chunk.css",
+    "static/js/main.16c6dc2b.chunk.js"
   ]
 }
